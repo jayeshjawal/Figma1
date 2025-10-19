@@ -1,0 +1,227 @@
+
+        * {
+            padding: 0;
+            margin: 0;
+        }
+
+        .nav {
+            height: 70px;
+            width: 100%;
+            background-color: #043873;
+            display: flex;
+            justify-content: space-evenly;
+        }
+
+        a {
+            text-decoration: none;
+            color: white;
+            font-size: 18px;
+        }
+
+        #nav1 {
+            align-self: center;
+            margin-left: 170px;
+
+        }
+
+        #nav2 {
+            align-self: center;
+            padding-left: 10px;
+            word-spacing: 25px;
+            margin-left: 100px;
+        }
+
+        #nav3 {
+            background-color: #FFE492;
+            height: 5vh;
+            width: 6vw;
+            border-radius: 7px;
+            align-self: center;
+            margin-left: 100px;
+        }
+
+        #nav4 {
+            background-color: #4F9CF9;
+            height: 5vh;
+            width: 15vw;
+            align-self: center;
+            border-radius: 7px;
+            margin-right: 125px;
+            color: white;
+
+        }
+
+        h3 {
+            text-align: center;
+            padding-top: 5px;
+        }
+
+        #box1 {
+            height: 300px;
+            width: 30vw;
+            background-color: #043873;
+            align-content: center;
+            color: white;
+        }
+
+        #box2 {
+            height: 300px;
+            width: 30vw;
+            background-color: #C4DEFD;
+        }
+
+        #button1 {
+            align-self: flex-end;
+            background-color: #4F9CF9;
+            height: 5vh;
+            width: 12vw;
+            align-self: center;
+            border-radius: 7px;
+            color: white;
+        }
+
+        .home {
+            height: 100%;
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #043873;
+        }
+
+        .project {
+            height: 100%;
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: space-evenly;
+        }
+
+        .extension {
+            height: 100vh;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #043873;
+
+        }
+
+        .Plan {
+            height: 100vh;
+            width: 100%;
+            justify-content: center;
+            background-color: white;
+        }
+
+        .sponsors {
+            height: 60vh;
+            width: 100%;
+            text-align: center;
+            justify-content: center;
+            align-items: center;
+
+        }
+
+        .client {
+            height: 100vh;
+            width: 100%;
+            text-align: center;
+        }
+
+        .client-page {
+            height: 500px;
+            width: 30%;
+            background-color: #4F9CF9;
+            border: 1px solid black;
+            display: flex;
+            flex-direction: column;
+            align-content: center;
+
+        }
+
+        .about {
+            height: 60vh;
+            width: 100%;
+            align-items: center;
+            background-color: #043873;
+            padding-left: 70px;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+            gap: 30px;
+        }
+
+        #box3 {
+            height: 300px;
+            width: 10vw;
+            background-color: white;
+            align-content: center;
+        }
+
+
+        #plan {
+            height: 70px;
+            width: 100%;
+            background-color: white;
+            text-align: center;
+            padding-top: 30px;
+            padding-bottom: 30px;
+        }
+
+        #cost {
+            height: 60vh;
+            width: 35vw;
+            border: 1px solid #FFE492;
+            padding: 40px 44px 40px 44px;
+
+        }
+
+        #cost-cards {
+            display: flex;
+            font-size: 20px;
+        }
+
+        #sponsor-img {
+            display: flex;
+            padding-top: 80px;
+            justify-content: space-evenly;
+        }
+
+        #client-format {
+            display: flex;
+            gap: 40px;
+            justify-content: center;
+            padding: 40px 0 0 0;
+        }
+
+        #about {
+            height: 100px;
+            width: 60%;
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            color: white;
+
+        }
+
+        #collon {
+            height: 60px;
+            width: 60px;
+            padding: 30 0 70 15;
+
+        }
+
+        #text {
+            padding-top: 70px;
+        }
+
+        #profile {
+            padding-top: 25;
+            object-position: 5px;
+
+        }
+
+        end {
+            padding-right: 60;
+        }
